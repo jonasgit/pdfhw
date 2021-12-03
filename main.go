@@ -1,5 +1,7 @@
 //-*- coding: utf-8 -*-
 
+// Modified version of Hello World from https://github.com/balacode/one-file-pdf
+
 package main 
 
 import (
